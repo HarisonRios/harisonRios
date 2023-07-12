@@ -1,5 +1,5 @@
 
-<h1 align="center"> Eai, me chamo Harison Rios </h1>
+<h1 align="center"> Harison Rios </h1>
 
 Olá! me chamo Harison Rios, sou um desenvolvedor front-end no início de carreira. Atualmente estou formado em técnico em Desenvolvimento de Sistemas pela ETEC.
 
