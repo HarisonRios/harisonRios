@@ -1,7 +1,7 @@
 
 <h1 align="center"> Harison Rios </h1>
 
-Olá! me chamo Harison Rios, sou um desenvolvedor front-end no início de carreira. Atualmente estou formado em técnico em Desenvolvimento de Sistemas pela ETEC.
+Olá! me chamo Harison Rios, sou um desenvolvedor front-end no início de carreira. Atualmente formado em técnico em Desenvolvimento de Sistemas pela ETEC.
 
 👨‍💻 - Desenvolvedor front-end. <br>
 🧑‍🏫 - Cursando Ensino Médio. <br>
