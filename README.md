@@ -4,7 +4,6 @@
 Olá! me chamo Harison Rios, sou um desenvolvedor front-end no início de carreira. Atualmente formado em técnico em Desenvolvimento de Sistemas pela ETEC.
 
 👨‍💻 - Desenvolvedor front-end. <br>
-🧑‍🏫 - Cursando Ensino Médio. <br>
 💌 - Amo web design, música & futebol. <br>
 📚 - Atualmente estudando <img align="center" alt="React.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">, <img align="center" alt="Node.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> e <img align="center" alt="Next.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 
