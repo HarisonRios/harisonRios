@@ -8,12 +8,6 @@ Olá! me chamo Harison Rios, sou um desenvolvedor front-end no início de carrei
 📚 - Atualmente estudando <img align="center" alt="React.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">, <img align="center" alt="Node.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> e <img align="center" alt="Next.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 
 
-<div align="center">
- <a href="https://github.com/HarisonRios">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=harisonrios&show_icons=true&theme=dark&includde_all_comits-true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisonrios&layout=compact&langs_count=168&theme=dark"/>
-</div>
-
 
 <h1 align="center"> Skills 👨‍💻 </h1>
 
@@ -35,6 +29,13 @@ Olá! me chamo Harison Rios, sou um desenvolvedor front-end no início de carrei
 <div align="center">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
  </div>
+
+
+<div align="center">
+ <a href="https://github.com/HarisonRios">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=harisonrios&show_icons=true&theme=dark&includde_all_comits-true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisonrios&layout=compact&langs_count=168&theme=dark"/>
+</div>
 
 
 
