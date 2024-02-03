@@ -1,11 +1,11 @@
 
 <h1 align="center"> Harison Rios </h1>
 
-Olá! me chamo Harison Rios, sou um desenvolvedor front-end no início de carreira. Atualmente formado em técnico em Desenvolvimento de Sistemas pela ETEC.
+Hello, my name is Harison, I'm 18 years old, and I have a degree in Systems Development from ETEC de Itaquera.
 
-👨‍💻 - Desenvolvedor front-end. <br>
-💌 - Amo web design, música & futebol. <br>
-📚 - Atualmente estudando <img align="center" alt="React.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">, <img align="center" alt="Node.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> e <img align="center" alt="Next.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+👨‍💻 - Dev front-end. <br>
+💌 - I love web design, music & football. <br>
+📚 - Studing <img align="center" alt="React.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">, <img align="center" alt="Node.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> e <img align="center" alt="Next.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 
 
 
