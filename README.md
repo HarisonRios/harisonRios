@@ -1,13 +1,11 @@
-##
-<h1 align="center"> Harison Rios </h1>
+## Harison Rios 
 
 Hello, my name is Harison, I'm 18 years old, and I have a degree in Systems Development from ETEC de Itaquera.
 
 👨‍💻 - Dev front-end. <br>
 💌 - I love web design, music & football. <br>
 
-##
-<h1 align="center"> Skills 👨‍💻 </h1>
+## Skills 👨‍💻 
    <div style="display: inline_block" align="center"><br>
    <img align="center" alt=HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt=CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,14 +20,9 @@ Hello, my name is Harison, I'm 18 years old, and I have a degree in Systems Deve
    <img align="center" alt=Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
    <img align="center" alt=Jquerry" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
    <img align="center" alt=VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-
-
-
-
-
-</div>
-##
-<h1 align="center"> Stats ⭐ </h1>
+   </div>
+   
+## Stats ⭐
 
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=harisonrios&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats"/> 
