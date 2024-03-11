@@ -1,5 +1,5 @@
 
-<h1 align="center"> Harison Rios </h1>
+#<h1 align="center"> Harison Rios </h1>
 
 Hello, my name is Harison, I'm 18 years old, and I have a degree in Systems Development from ETEC de Itaquera.
 
@@ -9,7 +9,7 @@ Hello, my name is Harison, I'm 18 years old, and I have a degree in Systems Deve
 
 
 
-<h1 align="center"> Skills 👨‍💻 </h1>
+#<h1 align="center"> Skills 👨‍💻 </h1>
 
 
 <div style="display: inline_block" align="center"><br>
@@ -24,19 +24,19 @@ Hello, my name is Harison, I'm 18 years old, and I have a degree in Systems Deve
  
 </div>
 
-<br>
+#<h1 align="center"> Stats ⭐ </h1>
 
 <div align="center">
  <a href="https://github.com/HarisonRios">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=harisonrios&show_icons=true&theme=dark&includde_all_comits-true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisonrios&layout=compact&langs_count=168&theme=dark"/>
+[![Harison Rios](https://github-readme-stats.vercel.app/api?username=harisonrios&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Harison Rios](https://github-readme-stats.vercel.app/api/top-langs/?username=harisonrios&hide=html&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 
 <div align="center">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
  </div>
-
 
 
 
