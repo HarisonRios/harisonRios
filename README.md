@@ -5,7 +5,6 @@ Hello, my name is Harison, I'm 18 years old, and I have a degree in Systems Deve
 👨‍💻 - Dev front-end. <br>
 💌 - I love web design, music & football. <br>
 
-#
 
 <h1 align="center"> Skills 👨‍💻 </h1>
    <div style="display: inline_block" align="center"><br>
@@ -24,7 +23,6 @@ Hello, my name is Harison, I'm 18 years old, and I have a degree in Systems Deve
    <img align="center" alt=VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
    </div>
 
-#
 <h1 align="center"> Stats ⭐  </h1>
 
 <div align="center">
