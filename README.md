@@ -29,7 +29,6 @@ Hello, my name is Harison, I'm 18 years old, and I have a degree in Systems Deve
 <div align="center">https://github.com/harisonrios/readme-template/tree/main/cards-status#tokyonight
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=harisonrios&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats"/> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisonrios&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)"/>
-  <img height="150em" src="https://github.com/harisonrios/readme-template/tree/main/cards-status#tokyonight"/>
 </div>
 
 
