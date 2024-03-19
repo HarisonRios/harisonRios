@@ -6,6 +6,15 @@ Hello, my name is Harison, I'm 18 years old, and I have a degree in Systems Deve
 💌 - I love web design, music & football. <br>
 
 
+<h1 align="center"> Stats ⭐  </h1>
+
+<div align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=harisonrios&show_icons=true&theme=holi"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisonrios&hide_progress=true&theme=holi"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisonrios&theme=holi"/>
+</div>
+
+
 <h1 align="center"> Skills 👨‍💻 </h1>
    <div style="display: inline_block" align="center"><br>
    <img align="center" alt=HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,14 +31,6 @@ Hello, my name is Harison, I'm 18 years old, and I have a degree in Systems Deve
    <img align="center" alt=Jquerry" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
    <img align="center" alt=VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
    </div>
-
-<h1 align="center"> Stats ⭐  </h1>
-
-<div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=harisonrios&show_icons=true&theme=holi"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisonrios&hide_progress=true&theme=holi"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisonrios&theme=holi"/>
-</div>
 
 
 
