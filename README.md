@@ -26,8 +26,9 @@ Hello, my name is Harison, I'm 18 years old, and I have a degree in Systems Deve
 <h1 align="center"> Stats ⭐  </h1>
 
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=harisonrios&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisonrios&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=harisonrios&show_icons=true&theme=holi"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisonrios&hide_progress=true&theme=holi"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisonrios&theme=holi"/>
 </div>
 
 
