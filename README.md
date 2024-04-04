@@ -1,9 +1,9 @@
 <h1 align="center"> Harison Rios 💻 </h1>
 
-Hello, my name is Harison, I'm 18 years old, and I have a degree in Systems Development from ETEC de Itaquera.
+Hello, my name is Harrison, I'm 18 years old and I have a degree in Systems Development from ETEC de Itaquera, currently studying Systems Analysis and Development at Impacta
 
-👨‍💻 - Dev front-end. <br>
-💌 - I love web design, music & football. <br>
+👨‍💻 - Full-stack developer, but I love front-end. <br>
+📱 - I love web design, music & football. <br>
 
 
 <h1 align="center"> Stats ⭐  </h1>
