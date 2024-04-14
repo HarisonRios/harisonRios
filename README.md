@@ -1,6 +1,6 @@
 <h1 align="center"> Harison Rios 💻 </h1>
 
-<img src="https://images.alphacoders.com/132/1328375.png">
+<img src="https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_1280.jpg">
 
 Greetings, I'm Harison, an 18-year-old with a degree in Systems Development from ETEC de Itaquera. Presently, I'm pursuing further studies in Systems Analysis and Development at Impacta.
 
