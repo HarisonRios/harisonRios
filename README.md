@@ -1,6 +1,6 @@
 <h1 align="center"> Harison Rios 💻 </h1>
 
-<img src="https://www.baltana.com/files/wallpapers-20/Cyberpunk-Pixel-Art-High-Definition-Wallpaper-49316.jpg">
+<img src="https://c4.wallpaperflare.com/wallpaper/1003/125/302/adventure-time-cartoon-wallpaper-preview.jpg">
 
 Greetings, I'm Harison, an 18-year-old with a degree in Systems Development from ETEC de Itaquera. Presently, I'm pursuing further studies in Systems Analysis and Development at Impacta.
 
