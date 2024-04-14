@@ -34,7 +34,7 @@ Greetings, I'm Harison, an 18-year-old with a degree in Systems Development from
 
 
 <h1 align="center"> What I Listen When I Work? 🎶 </h1>
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=22gntxzs5djhwry3dpsf463jq&unique={true|1|on|yes})](https://spotify-recently-played-readme.vercel.app/api?user=22gntxzs5djhwry3dpsf463jq&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22gntxzs5djhwry3dpsf463jq&300={300})
 
 
 
