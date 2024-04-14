@@ -1,6 +1,6 @@
 <h1 align="center"> Harison Rios 💻 </h1>
 
-<img src="https://wallpapers.com/images/high/japan-cyberpunk-y5b89ukh6dvl51gd.webp">
+<img src="https://photos.google.com/photo/AF1QipNj8pXW58euDH7B2uHxDQQjAMpNV6lKBjV5Albr">
 
 Greetings, I'm Harison, an 18-year-old with a degree in Systems Development from ETEC de Itaquera. Presently, I'm pursuing further studies in Systems Analysis and Development at Impacta.
 
