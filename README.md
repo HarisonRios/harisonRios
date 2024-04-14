@@ -1,6 +1,6 @@
 <h1 align="center"> Harison Rios 💻 </h1>
 
-<img src="https://c4.wallpaperflare.com/wallpaper/1003/125/302/adventure-time-cartoon-wallpaper-preview.jpg">
+<img src="https://images.alphacoders.com/132/1328375.png">
 
 Greetings, I'm Harison, an 18-year-old with a degree in Systems Development from ETEC de Itaquera. Presently, I'm pursuing further studies in Systems Analysis and Development at Impacta.
 
