@@ -1,5 +1,7 @@
 <h1 align="center"> Harison Rios 💻 </h1>
 
+<img src="https://www.baltana.com/files/wallpapers-20/Cyberpunk-Pixel-Art-High-Definition-Wallpaper-49316.jpg">
+
 Greetings, I'm Harison, an 18-year-old with a degree in Systems Development from ETEC de Itaquera. Presently, I'm pursuing further studies in Systems Analysis and Development at Impacta.
 
 👨‍💻 - Full-stack developer, but I love front-end. <br>
@@ -31,11 +33,6 @@ Greetings, I'm Harison, an 18-year-old with a degree in Systems Development from
    <img align="center" alt=Jquerry" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
    <img align="center" alt=VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
    </div>
-
-
-<h1 align="center"> What I Listen When I Work? 🎶 </h1>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22gntxzs5djhwry3dpsf463jq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
 
 
 
