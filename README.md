@@ -1,4 +1,4 @@
-<img aligh="center" src="https://cdnb.artstation.com/p/assets/images/images/066/149/065/original/killer-rabbit-media-chinese-alleyway-export.gif?1692171513" width="1000" height="300" >
+<img aligh="center" src="https://cdnb.artstation.com/p/assets/images/images/066/149/065/original/killer-rabbit-media-chinese-alleyway-export.gif?1692171513" width="1000" height="450" >
 
 <h1 align="center"> Harison Rios 💻 </h1>
 
