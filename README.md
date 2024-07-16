@@ -1,4 +1,4 @@
-<img aligh="center" src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif" width="1000" height="450" >
+<img aligh="center" src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif" >
 
 <h1 align="center"> Harison Rios 💻 </h1>
 
