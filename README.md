@@ -10,6 +10,16 @@
 <div>
 
 
+   
+<div align="center">
+<h1 align="center"> Stats ⭐  </h1>
+
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=harisonrios&show_icons=true&theme=holi"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisonrios&hide_progress=true&theme=holi"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisonrios&theme=holi"/>
+</div>
+
 
 
 <h1 align="center"> Skills 👨‍💻 </h1>
@@ -29,16 +39,6 @@
    <img align="center" alt=VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
    </div>
 
-
-   
-<div align="center">
-<h1 align="center"> Stats ⭐  </h1>
-
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=harisonrios&show_icons=true&theme=holi"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisonrios&hide_progress=true&theme=holi"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisonrios&theme=holi"/>
-</div>
 
 
 
