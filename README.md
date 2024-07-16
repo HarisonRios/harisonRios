@@ -1,6 +1,7 @@
 <div align="center">
    <h1> Harison Rios 💻 </h1>
-   <p>  </>👨🏻‍💻 Full-stack developer, but I love front-end. I love web design, music & football. </p> 
+   <p>  </> 👨🏻‍💻 Full-stack developer, but I love front-end. </p> 
+   <p>  🎵 ⚽  I love web design, music & football. </p>
    
    <p> Greetings, I'm Harison, an 18-year-old with a degree in Systems Development from ETEC de Itaquera. <br>
    Presently, I'm pursuing further studies in Systems Analysis and Development at São Paulo Tech School - SPTech.<br>  </p>
