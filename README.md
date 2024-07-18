@@ -54,20 +54,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h1 align="center"> Stats ⭐</h1>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=harisonrios&locale=pt&mode=daily&theme=dark&hide_border=false&border_radius=10&order=5" height="220" alt="streak graph"  />
+ <img src="https://raw.githubusercontent.com/harisonrios/harisonrios/output/snake.svg" alt="Snake animation" />
 </div>
 
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/HarisonRios /HarisonRios /output/snake.svg" alt="Snake animation" />
 
 ###
