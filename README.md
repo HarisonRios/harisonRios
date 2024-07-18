@@ -6,8 +6,6 @@
 
 <p align="center"></>👨🏻‍💻 Full-stack developer, but I love front-end.<br>🎵 ⚽  I love web design, music & football.</p>
 
-###
-
 <br clear="both">
 
 <p align="center">Greetings, I'm Harison, an 18-year-old with a degree in Systems Development from ETEC de Itaquera.<br>Presently, I'm pursuing further studies in Systems Analysis and Development at São Paulo Tech School - SPTech.</p>
