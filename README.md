@@ -60,9 +60,16 @@
 
 ###
 
+
 <div align="center">
- <img src="https://raw.githubusercontent.com/harisonrios/harisonrios/output/snake.svg" alt="Snake animation" />
+  <img src="https://streak-stats.demolab.com/?user=harisonrios&locale=pt&mode=daily&theme=dark&hide_border=false&border_radius=10&order=5" height="220" alt="streak graph"  />
 </div>
 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
