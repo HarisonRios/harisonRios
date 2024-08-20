@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="center"></>👨🏻‍💻 Full-stack developer, but I love front-end.<br>🎵 ⚽  I love web design, music & football.</p>
+<p align="center"></>👨🏻‍💻 Full-stack web developer, but I love front-end.<br>🎵 ⚽  I love web design, music & football.</p>
 
 <br clear="both">
 
