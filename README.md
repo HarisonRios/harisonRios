@@ -4,11 +4,12 @@
 
 <br clear="both">
 
-<p align="center"></>👨🏻‍💻 Full-stack web developer, but I love front-end.<br>🎵 ⚽  I love web design, music & football.</p>
+<p align="center"></>👨🏻‍💻 Desenvolvedor Web Full-Stack, mas adoro front-end.<br>🎵 ⚽  Adoro web design, música e futebol.</p>
 
 <br clear="both">
 
-<p align="center">Greetings, I'm Harison, an 18-year-old with a degree in Systems Development from ETEC de Itaquera.<br>Presently, I'm pursuing further studies in Systems Analysis and Development at São Paulo Tech School - SPTech.</p>
+<p align="center">Opa, sou Harison, tenho 18 anos e sou formado em Desenvolvimento de Sistemas pela ETEC de Itaquera.
+Atualmente, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas pela São Paulo Tech School - SPTech.</p>
 
 ###
 
