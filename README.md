@@ -1,5 +1,5 @@
 <h1 align="center">Harison Rios 💻</h1>
-<p align="center">Desenvolvedor Web Full-Stack</p>
+<h2 align="center">Desenvolvedor Web Full-Stack</h2>
 
 ###
 
@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" alt="Coding Animation" style="max-width: 100%; height:100%" />
+  <img src="https://64.media.tumblr.com/e02a94eb3ed476b9088dae2247218b35/tumblr_pof1ooiEIG1x6a7yto1_500.gifv" alt="Coding Animation" style="max-width: 100%; height: auto;" />
 </div>
 
 ###
