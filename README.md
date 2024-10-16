@@ -1,12 +1,12 @@
 <h1 align="center">Harison Rios 💻</h1>
 <p align="center">Desenvolvedor Web Full-Stack</p>
 
-###
-
-<p align="center">
-  Opa, sou Harison, tenho 18 anos e sou formado em Desenvolvimento de Sistemas pela ETEC de Itaquera. <br />
-  Atualmente, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas pela São Paulo Tech School - SPTech.
-</p>
+<div align="center" style="max-width: 600px; margin: 0 auto; text-align: justify;">
+  <p>
+    Opa, sou Harison, tenho 18 anos e sou formado em Desenvolvimento de Sistemas pela ETEC de Itaquera. <br />
+    Atualmente, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas pela São Paulo Tech School - SPTech.
+  </p>
+</div>
 
 ###
 
