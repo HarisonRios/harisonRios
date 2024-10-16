@@ -1,5 +1,5 @@
-<h1 align="center">Harison Rios 💻</h1>
-<p align="center">Desenvolvedor Web Full-Stack</p>
+<h1 align="center" style="margin-bottom: 5px;">Harison Rios 💻</h1>
+<p align="center" style="margin-top: 0;">Desenvolvedor Web Full-Stack</p>
 
 <div align="center" style="max-width: 600px; margin: 0 auto; text-align: justify;">
   <p>
