@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 style="margin-bottom: 0;">Harison Rios 💻</h2>
+  <h5 style="margin-bottom: 0;">Harison Rios 💻</h5>
   <p style="margin-top: 0;">Desenvolvedor Web Full-Stack</p>
 </div>
 
