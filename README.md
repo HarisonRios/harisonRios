@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
- <img src="https://i.pinimg.com/originals/e7/7a/1e/e77a1e25a95370f4f625c115f1622378.gif" alt="Coding Animation" style="max-width: 100%; height: auto;"/></div>
+ <img src="https://gifsec.com/wp-content/uploads/2022/11/retro-anime-gif-34.gif" alt="Coding Animation" style="max-width: 100%; height: auto;"/></div>
 
 ###
 
