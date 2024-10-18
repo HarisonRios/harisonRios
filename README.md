@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
- <img src="https://44.media.tumblr.com/ae799d154b09f261ac65ad479c9dd039/tumblr_pudewnsSO51v2xrtuo1_540.gif" alt="Coding Animation" style="max-width: 100%; height: auto;"/></div>
+ <img src="https://i.pinimg.com/originals/e7/7a/1e/e77a1e25a95370f4f625c115f1622378.gif" alt="Coding Animation" style="max-width: 100%; height: auto;"/></div>
 
 ###
 
