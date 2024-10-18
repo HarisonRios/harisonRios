@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
- <img src="https://i.pinimg.com/originals/62/33/2d/62332d52843de1fb48d463735a91ffda.gif" alt="Coding Animation" style="max-width: 100%; height: auto;"/></div>
+ <img src="https://i.pinimg.com/originals/88/42/4b/88424bd280cdbec92a8c025ae5bbd852.gif" alt="Coding Animation" style="max-width: 100%; height: auto;"/></div>
 
 ###
 
