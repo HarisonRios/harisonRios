@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
- <img src="https://pa1.aminoapps.com/8198/3bed89efe4f901b6c8faf96048d2c07db5a5d850r1-500-190_hq.gif" alt="Coding Animation" style="max-width: 100%; height: auto;"/></div>
+ <img src="https://44.media.tumblr.com/ae799d154b09f261ac65ad479c9dd039/tumblr_pudewnsSO51v2xrtuo1_540.gif" alt="Coding Animation" style="max-width: 100%; height: auto;"/></div>
 
 ###
 
