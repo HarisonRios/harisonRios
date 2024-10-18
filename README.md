@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="gif.gif" alt="Coding Animation" style="max-width: 100%; height: auto;" />
+  <img src="assets/gif.gif" alt="Coding Animation" />
 </div>
 
 ###
