@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
- <img src="assets/gif.gif" alt="Coding Animation" style="max-width: 100%; height: auto;"/></div>
+ <img src="https://pa1.aminoapps.com/8198/894f8100b7284fd4e858aa36d247b4ecb363c9efr1-320-122_hq.gif" alt="Coding Animation" style="max-width: 100%; height: auto;"/></div>
 
 ###
 
