@@ -34,12 +34,10 @@
 
 <div align="center">
   
+| [![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarisonRios&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| ----------- |
 
 | [![GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarisonRios&theme=tokyonight&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarisonRios&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Stars](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarisonRios&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 | ----------- | ----------- | ----------- |
-
-
-| [![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarisonRios&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| ----------- |
 
 </div>
