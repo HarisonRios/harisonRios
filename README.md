@@ -4,17 +4,17 @@
 
 <div align="center" style="max-width: 600px; margin: 0 auto; text-align: justify;">
   <p style="margin-top: 0;">Desenvolvedor Web Full-Stack</p>
-  <p>
-    Opa, sou Harison, tenho 19 anos e sou formado em Desenvolvimento de Sistemas pela ETEC de Itaquera. <br />
-    Atualmente, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas pela São Paulo Tech School - SPTech.
-  </p>
-</div>
+
 
 ###
 
 <div align="center">
  <img src="https://i.pinimg.com/originals/aa/dd/e9/aadde9640a924c2fc6a58ad9460d0307.gif" alt="Harisin"/></div>
-
+  <p>
+    Opa, sou Harison, tenho 19 anos e sou formado em Desenvolvimento de Sistemas pela ETEC de Itaquera. <br />
+    Atualmente, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas pela São Paulo Tech School - SPTech.
+  </p>
+  </div>
 ###
 
 <h1 align="center">Skills ⭐</h1>
