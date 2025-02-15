@@ -7,7 +7,7 @@
     <p>
     Opa, sou Harison, tenho 19 anos e sou formado em Desenvolvimento de Sistemas pela ETEC de Itaquera. <br />
     Atualmente, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas pela São Paulo Tech School - SPTech.
-    Atualmente, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas pela São Paulo Tech School - SPTECH.
+    BD & Analytics</b> - Quando - F3 Capital. 
   </p>
 </div>
 
