@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/061c5ef8-2616-48a4-af21-9fhttps://skillicons.dev/icons?i=html,css,sass,js,ts,java,python,react,nodejs,php,next,mysql,bootstrap,adonis,jquery" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,java,python,react,nodejs,php,next,mysql,mongobd,bootstrap,adonis,jquery" alt="My Skills" />
   <br />
 </div>
 
