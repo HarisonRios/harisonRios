@@ -3,13 +3,13 @@
 </div>
 
 <div align="center" style="max-width: 600px; margin: 0 auto; text-align: justify;">
-  <p style="margin-top: 0;">Desenvolvedor Web Full-Stack</p>
-    <p>
-    19y <br/>
-    BD & Analytics</b> - Quando - F3 Capital. <br />
-    Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas</b> - SPTECH - São Paulo Tech School <br />
-    Formado em Técnico em Desenvolvimento de Sistemas</b> - ETEC Itaquera I <br />
-  </p>
+<p>
+  <b>19y</b> <br/>
+  <b>BD & Analytics</b> - Quando - F3 Capital. <br />
+  <b>Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas</b> - SPTECH - São Paulo Tech School <br />
+  <b>Formado em Técnico em Desenvolvimento de Sistemas</b> - ETEC Itaquera I <br />
+</p>
+
 </div>
 
 
