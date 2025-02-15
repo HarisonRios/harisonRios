@@ -1,10 +1,10 @@
-# Harison Rios 💻
-
-**BD & Analytics** - Quando - F3 Capital.  
-**Análise e Desenvolvimento de Sistemas** - SPTECH  
-**Técnico em Desenvolvimento de Sistemas** - ETEC Itaquera I  
-
 <div align="center">
+  # Harison Rios 💻
+
+  **BD & Analytics** - Quando - F3 Capital.  
+  **Análise e Desenvolvimento de Sistemas** - SPTECH  
+  **Técnico em Desenvolvimento de Sistemas** - ETEC Itaquera I  
+
   <img src="https://i.pinimg.com/originals/91/1d/91/911d914aaf6194489a3f5626bed2bd3a.gif" alt="Harisin" style="max-width: 100%; height: auto;" />
 </div>
 
