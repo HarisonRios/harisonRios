@@ -16,8 +16,10 @@
 ###
 
 <div align="center">
- <img src="https://i.pinimg.com/originals/91/1d/91/911d914aaf6194489a3f5626bed2bd3a.gif" alt="Harisin"/></div>
-  </div>
+  <img src="https://i.pinimg.com/originals/91/1d/91/911d914aaf6194489a3f5626bed2bd3a.gif" alt="Harisin" style="max-width: 100%; height: auto;" />
+</div>
+
+
 
 ###
 
