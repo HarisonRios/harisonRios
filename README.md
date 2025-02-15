@@ -5,9 +5,10 @@
 <div align="center" style="max-width: 600px; margin: 0 auto; text-align: justify;">
   <p style="margin-top: 0;">Desenvolvedor Web Full-Stack</p>
     <p>
-    Opa, sou Harison, tenho 19 anos e sou formado em Desenvolvimento de Sistemas pela ETEC de Itaquera. <br />
-    Atualmente, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas pela São Paulo Tech School - SPTech.
-    Atualmente, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas pela São Paulo Tech School - SPTECH.
+    19y <br/>
+    BD & Analytics</b> - Quando - F3 Capital. <br />
+    Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas</b> - SPTECH - São Paulo Tech School <br />
+    Formado em Técnico em Desenvolvimento de Sistemas</b> - ETEC Itaquera I <br />
   </p>
 </div>
 
@@ -35,14 +36,6 @@
 <h1 align="center">Stats 👨🏻‍💻</h1>
 
 <div align="center">
-
-| [![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarisonRios&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| ----------- |
-
-| [![GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarisonRios&theme=tokyonight&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarisonRios&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Stars](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarisonRios&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| ----------- | ----------- | ----------- |
-
-</div>
 
 | [![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarisonRios&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 | ----------- |
