@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="margin-bottom: 0; font-size: 3em;">Harison Rios 💻</h1>
+  <h1 style="margin-bottom: 0;">Harison Rios 💻</h1>
 </div>
 
 <div align="center" style="max-width: 600px; margin: 0 auto; text-align: justify;">
@@ -17,46 +17,24 @@
 
 ---
 
+### Skills ⭐
+
 <div align="center">
-  <h1 style="font-size: 3em;">Skills ⭐</h1>
-  <div>
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,java,python,react" alt="My Skills" />
-    <img src="https://skillicons.dev/icons?i=nodejs,php,next,mysql,mongodb,bootstrap,adonis,jquery" alt="My Skills" />
-  </div>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,java,python,react" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,next,mysql,mongodb,bootstrap,adonis,jquery" alt="My Skills" />
+  <br />
 </div>
 
 ---
 
+### Stats 👨🏻‍💻
+
 <div align="center">
-  <h1 style="font-size: 3em;">Stats 👨🏻‍💻</h1>
 
-  <div>
-    <table>
-      <tr>
-        <td>
-          <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarisonRios&theme=tokyonight" />
-          </a>
-        </td>
-      </tr>
+| [![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarisonRios&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| ----------- |
 
-      <tr>
-        <td>
-          <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarisonRios&theme=tokyonight&utcOffset=-3" />
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarisonRios&theme=tokyonight" />
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarisonRios&theme=tokyonight" />
-          </a>
-        </td>
-      </tr>
-    </table>
-  </div>
+| [![GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarisonRios&theme=tokyonight&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarisonRios&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Stars](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarisonRios&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| ----------- | ----------- | ----------- |
+
 </div>
