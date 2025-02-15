@@ -1,13 +1,22 @@
 <div align="center">
-  ## Harison Rios 💻
-
-  **BD & Analytics** - Quando - F3 Capital.  
-  **Análise e Desenvolvimento de Sistemas** - SPTECH  
-  **Técnico em Desenvolvimento de Sistemas** - ETEC Itaquera I  
-
-  <img src="https://i.pinimg.com/originals/91/1d/91/911d914aaf6194489a3f5626bed2bd3a.gif" alt="Harisin" style="max-width: 100%; height: auto;" />
+  <h1 style="margin-bottom: 0;">Harison Rios 💻</h1>
 </div>
 
+<div align="center" style="max-width: 600px; margin: 0 auto; text-align: justify;">
+  <p style="margin-top: 0;">Desenvolvedor Web Full-Stack</p>
+    <p>
+    Opa, sou Harison, tenho 19 anos e sou formado em Desenvolvimento de Sistemas pela ETEC de Itaquera. <br />
+    Atualmente, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas pela São Paulo Tech School - SPTech.
+    Atualmente, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas pela São Paulo Tech School - SPTECH.
+  </p>
+</div>
+
+
+###
+
+<div align="center">
+ <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/061c5ef8-2616-48a4-af21-9f97322673b3/dfety8v-35ceac0b-83f5-4178-847c-c68e188de9d8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA2MWM1ZWY4LTI2MTYtNDhhNC1hZjIxLTlmOTczMjI2NzNiM1wvZGZldHk4di0zNWNlYWMwYi04M2Y1LTQxNzgtODQ3Yy1jNjhlMTg4ZGU5ZDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MRKkhnA_X89NfXQJhVKZHZ39__ShHO-ekADlv11oDPw" alt="Harisin"/></div>
+  </div>
 
 ###
 
@@ -34,3 +43,6 @@
 | ----------- | ----------- | ----------- |
 
 </div>
+
+
+###
