@@ -1,23 +1,12 @@
-<div align="center">
-  <h1 style="margin-bottom: 0;">Harison Rios 💻</h1>
-  
-</div>
+# Harison Rios 💻
 
-<div align="center" style="max-width: 600px; margin: 0 auto; text-align: justify;">
-<p style="margin-top: 0;"><b>BD & Analytics</b> - Quando - F3 Capital. </p>
-<p> <b> Análise e Desenvolvimento de Sistemas</b> - SPTECH  <br /> </p>
-<p>  <b> Técnico em Desenvolvimento de Sistemas</b> - ETEC Itaquera I <br/> </p>
-
-
-</div>
-
-
-###
+**BD & Analytics** - Quando - F3 Capital.  
+**Análise e Desenvolvimento de Sistemas** - SPTECH  
+**Técnico em Desenvolvimento de Sistemas** - ETEC Itaquera I  
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/91/1d/91/911d914aaf6194489a3f5626bed2bd3a.gif" alt="Harisin" style="max-width: 100%; height: auto;" />
 </div>
-
 
 
 ###
