@@ -11,21 +11,26 @@
 
 </div>
 
+
 ###
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/59/b8/c8/59b8c8622c076c5dc7bac0dd591c712c.gif" alt="Harisin"/></div>
-</div>
+ <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/061c5ef8-2616-48a4-af21-9f97322673b3/dfety8v-35ceac0b-83f5-4178-847c-c68e188de9d8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA2MWM1ZWY4LTI2MTYtNDhhNC1hZjIxLTlmOTczMjI2NzNiM1wvZGZldHk4di0zNWNlYWMwYi04M2Y1LTQxNzgtODQ3Yy1jNjhlMTg4ZGU5ZDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MRKkhnA_X89NfXQJhVKZHZ39__ShHO-ekADlv11oDPw" alt="Harisin"/></div>
+ <img src="https://i.pinimg.com/originals/59/b8/c8/59b8c8622c076c5dc7bac0dd591c712c.gif" alt="Harisin"/></div>
+  </div>
+
 ###
 
 <h1 align="center">Skills ⭐</h1>
 
 ###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,java,python,react" alt="My Skills" />
   <img src="https://skillicons.dev/icons?i=nodejs,php,next,mysql,mongodb,bootstrap,adonis,jquery" alt="My Skills" />
   <br />
 </div>
+
 ###
 
 <h1 align="center">Stats 👨🏻‍💻</h1>
@@ -39,4 +44,6 @@
 | ----------- | ----------- | ----------- |
 
 </div>
+
+
 ###
