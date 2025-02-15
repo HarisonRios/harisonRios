@@ -5,11 +5,9 @@
 
 <div align="center" style="max-width: 600px; margin: 0 auto; text-align: justify;">
 <p style="margin-top: 0;"><b>BD & Analytics</b> - Quando - F3 Capital. </p>
-<p>
-  <b>19y</b> <br/>
-  <b>Cursando Análise e Desenvolvimento de Sistemas</b> - SPTECH - São Paulo Tech School <br />
-  <b>Formado em Técnico em Desenvolvimento de Sistemas</b> - ETEC Itaquera I <br />
-</p>
+<p> <b> Análise e Desenvolvimento de Sistemas</b> - SPTECH  <br /> </p>
+<p>  <b> Técnico em Desenvolvimento de Sistemas</b> - ETEC Itaquera I <br/> </p>
+
 
 </div>
 
