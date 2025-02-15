@@ -1,12 +1,13 @@
 <div align="center">
   <h1 style="margin-bottom: 0;">Harison Rios 💻</h1>
+  
 </div>
 
 <div align="center" style="max-width: 600px; margin: 0 auto; text-align: justify;">
+<p style="margin-top: 0;"><b>BD & Analytics</b> - Quando - F3 Capital. </p>
 <p>
   <b>19y</b> <br/>
-  <b>BD & Analytics</b> - Quando - F3 Capital. <br />
-  <b>Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas</b> - SPTECH - São Paulo Tech School <br />
+  <b>Cursando Análise e Desenvolvimento de Sistemas</b> - SPTECH - São Paulo Tech School <br />
   <b>Formado em Técnico em Desenvolvimento de Sistemas</b> - ETEC Itaquera I <br />
 </p>
 
