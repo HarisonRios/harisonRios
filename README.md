@@ -19,8 +19,8 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,vite alt="My Skills" />
-  <img src="https://skillicons.dev/icons?i=python,php,nodejs,mysql,mongodb alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,vite" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,nodejs,mysql,mongodb" alt="My Skills" />
   <br />
 </div>
 
