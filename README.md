@@ -47,6 +47,7 @@
   </a>
   <br />
   <sub>
+    <a href="https://www.linkedin.com/in/harisonrios/" target="_blank"> Linkedin </a> • 
     <a href="https://learn.microsoft.com/en-us/users/harison-rios/credentials/e6a42ff3e6d1e85a" target="_blank">Microsoft Credencials</a> • 
     <a href="https://www.credly.com/users/harisonrios" target="_blank">Credly Profile</a>
   </sub>
