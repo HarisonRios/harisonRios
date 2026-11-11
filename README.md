@@ -26,7 +26,7 @@
 
 ###
 
-<h1 align="center">Stats 👨🏻‍💻</h1>
+<h1 align="center">Stats 👨🏻💻</h1>
 
 <div align="center">
 
@@ -38,5 +38,18 @@
 
 </div>
 
+
+###
+
+<div align="center">
+  <a href="https://learn.microsoft.com/en-us/users/harison-rios/credentials/e6a42ff3e6d1e85a" target="_blank">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/github-foundations.svg" alt="GitHub Foundations" width="110" />
+  </a>
+  <br />
+  <sub>
+    <a href="https://learn.microsoft.com/en-us/users/harison-rios/credentials/e6a42ff3e6d1e85a" target="_blank">Microsoft Credencials</a> • 
+    <a href="https://www.credly.com/users/harisonrios" target="_blank">Credly Profile</a>
+  </sub>
+</div>
 
 ###
