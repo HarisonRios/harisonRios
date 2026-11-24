@@ -26,7 +26,7 @@
 
 ###
 
-<h1 align="center">Stats 👨🏻💻</h1>
+<h1 align="center">Stats 💻</h1>
 
 <div align="center">
 
